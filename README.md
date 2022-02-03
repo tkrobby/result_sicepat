@@ -1,10 +1,7 @@
 # Testing Automation API Using Node.js, Mocha and Chai
 
 Prequisites: 
-
 Install Node.js
-
-rename envsampe to .env
 
 Step to use this FW:
 1. Clone
