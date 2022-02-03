@@ -12,7 +12,6 @@ const testCase = {
         }
 };
 
-let customerJWToken = '';
 let id = '';
 
 describe('Api add new address | /v1/account/address/me', () => {
